@@ -18,7 +18,7 @@ jobs:
 
     runs-on: ubuntu-18.04
 
-    if: ${{ github.event.repository.owner.id == github.event.sender.id && github.repository == 'simple202/jd_scripts' }}
+    if: ${{ github.event.repository.owner.id == github.event.sender.id && github.repository == 'simple201/kkk' }}
 
     timeout-minutes: 2
 
